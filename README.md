@@ -21,14 +21,14 @@ Design patterns are typical solutions to common problems in software design. Eac
   -  Polimorphism
 - What's a desing pattern?
 - What does the pattern consist of?
-- Pattern Classification
+- Classification of patterns
 - SOLID Principles
-- Creational patterns:
+- Creational Desing Patterns:
   - Singleton
   - Abstract Factory
-- Structural patterns
+- Structural Patterns
   - Adapter
   - Proxy
-- Behavioral patterns
+- Behavioral Patterns
   - Observer
   - State
